@@ -5,10 +5,16 @@
 > Project 1: Building the first 2 sections of the mobile website.
 
 
+## Live website link
+
+https://nuga0909.github.io/
+
+
 ## Built With
 
 - HTML
 - CSS
+- Git / GitHub
 
 ### Dependencies
 
